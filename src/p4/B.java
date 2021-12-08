@@ -6,7 +6,7 @@ public class B {
     System.out.println("m" + number);
   }
 
-  public void m3() {
+  public void m9() {
     System.out.println("m3");
   }
 }
