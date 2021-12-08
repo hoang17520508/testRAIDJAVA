@@ -5,7 +5,7 @@ public class A {
     return v % 2 == 0;
   }
 
-  public void m1(int v) {
+  public void m2(int v) {
     if (this.isEven(v)) {
       System.out.println("even");
     } else {
