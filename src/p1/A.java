@@ -5,7 +5,7 @@ public class A implements IA {
     System.out.println("m1");
   }
 
-  public void m2() {
+  public void m3() {
     System.out.println("m2");
   }
 }
